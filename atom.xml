@@ -4,7 +4,7 @@
   <title><![CDATA[12px]]></title>
   <link href="http://tombrew.github.io/atom.xml" rel="self"/>
   <link href="http://tombrew.github.io/"/>
-  <updated>2014-02-28T11:40:20-08:00</updated>
+  <updated>2014-02-28T11:44:11-08:00</updated>
   <id>http://tombrew.github.io/</id>
   <author>
     <name><![CDATA[Tom Byrne]]></name>
@@ -18,7 +18,7 @@
     <link href="http://tombrew.github.io/blog/2014/02/28/hello-world/"/>
     <updated>2014-02-28T11:22:28-08:00</updated>
     <id>http://tombrew.github.io/blog/2014/02/28/hello-world</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>This is a test!</p>
 ]]></content>
   </entry>
   
